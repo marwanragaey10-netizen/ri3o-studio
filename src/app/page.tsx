@@ -294,9 +294,7 @@ export default function Home() {
       your goals.
     </p>
 
-    <div className="pricing-currency">
-      PRICES AVAILABLE IN EGP & USD
-    </div>
+    
   </div>
 
   <div className="pricing-grid">
