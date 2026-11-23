@@ -1,12 +1,9 @@
-
 "use client";
-
 import { motion } from "framer-motion";
 import {
   ArrowDown,
   ArrowRight,
   ArrowUpRight,
-  Menu,
 } from "lucide-react";
 
 
@@ -65,10 +62,6 @@ export default function Home() {
 
           <a href="#contact" className="nav-cta">
             Let's talk <ArrowUpRight size={15} />
-          </a>
-
-          <a href="#services" className="mobile-menu" aria-label="Explore services">
-            <Menu size={23} />
           </a>
         </div>
       </header>
