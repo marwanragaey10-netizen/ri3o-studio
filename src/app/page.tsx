@@ -298,7 +298,7 @@ export default function Home() {
       <h3>THE STARTER</h3>
 
       <div className="price-amount">
-        EGP 3,500
+        EGP 3,499
       </div>
 
       
@@ -334,7 +334,7 @@ export default function Home() {
       <h3>THE BUSINESS</h3>
 
       <div className="price-amount">
-        EGP 6,000
+        EGP 5,999
       </div>
 
       
@@ -368,7 +368,7 @@ export default function Home() {
       <h3>THE E-COMMERCE</h3>
 
       <div className="price-amount">
-        EGP 10,000
+        EGP 9,999
       </div>
 
 
