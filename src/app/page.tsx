@@ -577,10 +577,9 @@ export default function Home() {
             defaultValue=""
           >
             <option value="" disabled>Select your budget</option>
-            <option value="Under EGP 10,000 / USD 200">Under EGP 10,000 / USD 200</option>
-            <option value="EGP 10,000–20,000 / USD 200–400">EGP 10,000–20,000 / USD 200–400</option>
-            <option value="EGP 20,000–40,000 / USD 400–800">EGP 20,000–40,000 / USD 400–800</option>
-            <option value="Above EGP 40,000 / USD 800">Above EGP 40,000 / USD 800</option>
+            <option value="Under EGP 5,000">Under EGP 5,000</option>
+            <option value="EGP 5,000–10,000">EGP 5,000–10,000</option>
+            <option value="Above EGP 10,000">Above EGP 10,000</option>
             <option value="Not sure yet">Not sure yet</option>
           </select>
         </div>
